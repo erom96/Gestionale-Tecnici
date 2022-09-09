@@ -1,0 +1,40 @@
+.space {
+    width: 400px;
+  height: auto;
+  display: inline-block;
+}
+
+.navbarfix {
+    padding-top: 50px;
+}
+
+.divdistance {
+    padding-top: 50px;
+}
+
+.formfix {
+    padding-left: 650px;
+}
+
+.redtext {
+    color: red !important;
+}
+
+.modal-backdrop+.modal-backdrop {
+  opacity : 0;
+}
+
+@media (min-width: 768px) {
+  .modal-xl {
+    width: 90%;
+   max-width:1400px;
+  }
+}
+
+.whiteSpaces {
+    white-space: pre-wrap;
+}
+
+.cliccabile {
+    cursor: pointer;
+}
